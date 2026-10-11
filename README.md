@@ -8,7 +8,7 @@ HW2 - 2D腳色操作
 
 
 Youtube 連結︰
-
+https://youtu.be/bKOsY28V6rc
 
 
 說明製作流程和相關操作 ︰<br>
