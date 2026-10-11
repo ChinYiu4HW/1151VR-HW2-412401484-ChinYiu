@@ -25,3 +25,4 @@ https://youtu.be/bKOsY28V6rc
 ● 跳起時顯示Array第0張圖，下降中切換為第2張，著地時切換第1張 <br>
 ● 增加人物跑步動畫、待機動畫(眨眼) <br>
 ● 修復BUG, 人物跳起後會卡在第2格動畫。增加參數jumpCooldownTimer防止人物能無限跳 <br>
+● 新增終點碰撞會有音效+restart game+VFX 的script、增加bgm <br>
