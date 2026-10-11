@@ -11,7 +11,7 @@ Youtube 連結︰
 
 
 
-說明製作流程和相關操作 ︰
+說明製作流程和相關操作 ︰<br>
 ● import 人物、背景2D Asset + 建立場景與地圖所需的 GameObjects <br>
 ● 創建不同array 來分類人物不同動作的圖片idleSprites、runSprites、jumpSprites <br>
 ● 設定移動、跳躍、地面偵測、圖片播放速度等參數 <br>
